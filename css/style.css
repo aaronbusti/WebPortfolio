@@ -1,0 +1,57 @@
+/* NavBar Font size */
+.navbar-nav .nav-link {
+    font-size: 24px;
+}
+
+/* Font Color */
+body {
+    color: white !important;
+    font-family: 'Poppins', sans-serif;
+}
+
+h5 {
+    font-family: 'Poppins', sans-serif;
+}
+
+h2 {
+    font-family: 'Poppins', sans-serif;
+}
+
+p {
+    font-family: 'Poppins', sans-serif;
+}
+
+.navbar {
+    color: white;
+}
+
+.navbar-nav .nav-link {
+    color: white;
+}
+
+#Gallery {
+    color: rgb(255, 255, 255);
+    font-family: 'Poppins', sans-serif;
+
+}
+
+#Portfolio {
+    color: rgb(255, 255, 255);
+    font-family: 'Poppins', sans-serif;
+
+}
+
+.custom-image {
+    max-width: 600px;
+    max-height: 600px;
+    width: auto;
+    height: auto;
+}
+
+.btn btn-primary btn-lg {
+    border-color: #000000;
+}
+
+.btn i.fab {
+    color: black;
+}
